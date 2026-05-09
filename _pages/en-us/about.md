@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> PhD </a>, Artificial Intelligence in Life Sciences.
+subtitle: <a href='#'> PhD</a>, Artificial Intelligence in Life Sciences.
 
 profile:
   align: right
