@@ -53,7 +53,8 @@
       "studyType": "Master of Advanced Studies in Medical Physics",
       "startDate": "2019-01-01",
       "endDate": "2021-01-30",
-      "score": "110/110 cum laude"
+      "score": "110/110 cum laude",
+      "courses": ["Radiotherapy", "Diagnostic Imaging", "Nuclear Medicine"]
     },
     {
       "institution": "University of Franche-Comte",
@@ -63,6 +64,7 @@
       "studyType": "Computational Physics, Master Courses",
       "startDate": "2018-10-01",
       "endDate": "2021-12-31",
+      "score": "",
       "courses": ["Quantum Physics", "Statistical Physics", "Materials Physics", "Numerical Tools", "Signal Processing & Statistics"]
     },
     {
@@ -70,10 +72,12 @@
       "location": "Managua, Nicaragua",
       "url": "https://www.unan.edu.ni/",
       "area": "Estimation of Personal Dose in Mixed Neutron-Gamma Radiation Fields",
-      "studyType": "Master of Advanced Studies in Medical Physics",
+      "studyType": "Bachelor in Physics with Concentration on Medical Physics",
       "startDate": "2012-03-01",
-      "endDate": "2017-06-01"
-    },
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": ["Quantum Mechanics", "Radiation Physics", "Radiobiology"]
+    }
   ],
     "volunteer": [
     {
