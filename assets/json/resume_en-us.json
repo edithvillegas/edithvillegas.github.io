@@ -32,6 +32,26 @@
       "endDate": "2026-12-31",
       "summary": "Researcher in the CMSP section.",
       "highlights": ["Machine Learning"]
+    },
+	{
+      "name": "AREA Science Park, Laboratory of Data Engineering",
+	  "location": "Trieste, Italy",
+      "position": "Researcher",
+      "url": "https://www.areasciencepark.it/",
+      "startDate": "2025-12-31",
+      "endDate": "2021-07-01",
+      "summary": "Researcher in the CMSP section.",
+      "highlights": ["Machine Learning"]
+    },
+	{
+      "name": "University of Trieste",
+	  "location": "Trieste, Italy",
+      "position": "Teaching Assistant",
+      "url": "https://portale.units.it/en",
+      "startDate": "2024-10-01",
+      "endDate": "2024-12-31",
+      "summary": "Teaching Assistant for the Machine Learning Operations course for the Masters in Data Science and Artificial Intelligence.",
+      "highlights": ["Machine Learning"]
     }
   ],
   "education": [
@@ -101,15 +121,6 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
@@ -146,29 +157,6 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+  ]
   ]
 }
