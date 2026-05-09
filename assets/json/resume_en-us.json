@@ -37,14 +37,43 @@
     {
       "institution": "University of Trieste",
       "location": "Trieste, Italy",
-      "url": "https://www.uzh.ch/",
-      "area": "Applied Data Science and Artificial Intelligence",
-      "studyType": "PhD",
+      "url": "https://portale.units.it/en",
+      "area": "Protein Language Models: Interpretability and Applications",
+      "studyType": "PhD in Applied Data Science and Artificial Intelligence",
       "startDate": "2022-11-01",
       "endDate": "2026-01-28",
       "score": "cum laude",
-      "courses": [""]
-    }
+      "courses": ["Unsupervised Machine Learning", "Neural Networks", "Bioinformatics"]
+    },
+    {
+      "institution": "University of Trieste & International Centre for Theoretical Physics",
+      "location": "Trieste, Italy",
+      "url": "https://portale.units.it/en",
+      "area": "Dosimetric Study of Fetal Dose during External Beam Radiotherapy using OSLD",
+      "studyType": "Master of Advanced Studies in Medical Physics",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-30",
+      "score": "110/110 cum laude"
+    },
+    {
+      "institution": "University of Franche-Comte",
+      "location": "Besançon, France",
+      "url": "https://www.ubfc.fr/en/",
+      "area": " ",
+      "studyType": "Computational Physics, Master Courses",
+      "startDate": "2018-10-01",
+      "endDate": "2021-12-31",
+      "courses": ["Quantum Physics", "Statistical Physics", "Materials Physics", "Numerical Tools", "Signal Processing & Statistics"]
+    },
+    {
+      "institution": "National Autonomous University of Nicaragua",
+      "location": "Managua, Nicaragua",
+      "url": "https://www.unan.edu.ni/",
+      "area": "Estimation of Personal Dose in Mixed Neutron-Gamma Radiation Fields",
+      "studyType": "Master of Advanced Studies in Medical Physics",
+      "startDate": "2012-03-01",
+      "endDate": "2017-06-01"
+    },
   ],
     "volunteer": [
     {
