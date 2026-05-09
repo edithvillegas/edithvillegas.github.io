@@ -52,7 +52,7 @@ work_url: https://www.ictp.it/member/edith-natalia-villegas-garcia
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://github.com/edithvillegas/edithvillegas.github.io/blob/6311306e3b6fc29b6a6af0e331b9a3682072bcb6/assets/img/logos/linkedinlogo.webp # can be png, svg, jpg
-  title: Linkedin
- url: https://www.linkedin.com/in/edithvillegas/
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: https://github.com/edithvillegas/edithvillegas.github.io/blob/6311306e3b6fc29b6a6af0e331b9a3682072bcb6/assets/img/logos/linkedinlogo.webp # can be png, svg, jpg
+#   title: Linkedin
+#  url: https://www.linkedin.com/in/edithvillegas/
