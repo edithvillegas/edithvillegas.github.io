@@ -62,13 +62,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/pt-br/teaching/";
           },
-        },{id: "nav-membros",
-          title: "membros",
-          description: "membros do grupo de pesquisa ou laboratório",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/pt-br/people/";
-          },
         },{id: "dropdown-estante-de-livros",
               title: "estante de livros",
               description: "",
