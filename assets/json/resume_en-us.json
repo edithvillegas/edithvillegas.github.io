@@ -48,40 +48,40 @@
       "location": "Trieste, Italy",
       "position": "Teaching Assistant",
       "url": "https://portale.units.it/en",
-      "startDate": "2026-02-01",
-      "endDate": "2026-12-31",
-      "summary": "Teaching Assistant for the Machine Learning Operations course, for the Masters in Data Science and Artificial Intelligence.",
+      "startDate": "2024-10-01",
+      "endDate": "2024-12-31",
+      "summary": "Teaching Assistant for the Machine Learning Operations course in the Master of Data Science.",
       "highlights": [""]
     },
     {
-      "name": "International Center for Theoretical Physics - UNESCO",
-      "location": "Trieste, Italy",
-      "position": "Postdoctoral Researcher",
-      "url": "https://www.ictp.it/member/edith-natalia-villegas-garcia",
-      "startDate": "2026-02-01",
-      "endDate": "2026-12-31",
-      "summary": "Researcher in the CMSP section.",
-      "highlights": ["PLM "]
+      "name": "National Autonomous University of Nicaragua",
+      "location": "Managua, Nicaragua",
+      "position": "Lab Specialist",
+      "url": "https://www.unan.edu.ni/",
+      "startDate": "2021-07-01",
+      "endDate": "2015-03-01",
+      "summary": "Radiation Physics and Metrology Laboratory",
+      "highlights": ["Radiation Protection"]
     },
     {
-      "name": "International Center for Theoretical Physics - UNESCO",
-      "location": "Trieste, Italy",
-      "position": "Postdoctoral Researcher",
-      "url": "https://www.ictp.it/member/edith-natalia-villegas-garcia",
-      "startDate": "2026-02-01",
-      "endDate": "2026-12-31",
-      "summary": "Researcher in the CMSP section.",
-      "highlights": ["PLM "]
+      "name": "Veneto Institute of Oncology",
+      "location": "Padova, Italy",
+      "position": "Medical Physics Intern",
+      "url": "https://www.ioveneto.it/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-30",
+      "summary": "Intern in Radiotherapy at the Physics Department.",
+      "highlights": ["Radiotherapy"]
     },
     {
-      "name": "International Center for Theoretical Physics - UNESCO",
-      "location": "Trieste, Italy",
-      "position": "Postdoctoral Researcher",
-      "url": "https://www.ictp.it/member/edith-natalia-villegas-garcia",
-      "startDate": "2026-02-01",
-      "endDate": "2026-12-31",
-      "summary": "Researcher in the CMSP section.",
-      "highlights": ["PLM "]
+      "name": "CERN",
+      "location": "Geneva, Switzerland",
+      "position": "Summer Intern",
+      "url": "https://home.cern/",
+      "startDate": "2017-07-01",
+      "endDate": "2017-08-30",
+      "summary": "Intern in Open Data Group for the CMS Experiment.",
+      "highlights": ["Teaching Assistant for the High School Teachers Program"]
     }
   ],
   "education": [
