@@ -41,13 +41,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fr-ca/projects/";
           },
-        },{id: "nav-repositórios",
-          title: "repositórios",
-          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
-          section: "menu de navigation",
-          handler: () => {
-            window.location.href = "/fr-ca/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
