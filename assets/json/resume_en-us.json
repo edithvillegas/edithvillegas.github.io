@@ -142,15 +142,6 @@
       "highlights": ["Co-organizer of the First Guatemalan School of Biophysics - 2025"]
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
   "skills": [
     {
       "name": "Programming",
