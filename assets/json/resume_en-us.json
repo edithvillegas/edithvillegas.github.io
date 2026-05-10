@@ -41,7 +41,7 @@
       "startDate": "2021-07-01",
       "endDate": "2025-12-31",
       "summary": "Researcher in the Laboratory of Data Engineering.",
-      "highlights": ["Protein Language Models"]
+      "highlights": ["Protein Language Models", "Clinical Risk Stratification", "Data Management"]
     },
     {
       "name": "University of Trieste",
@@ -61,7 +61,7 @@
       "startDate": "2015-03-01",
       "endDate": "2021-07-01",
       "summary": "Radiation Physics and Metrology Laboratory",
-      "highlights": ["Radiation Protection"]
+      "highlights": ["Quality Control of Medical Imaging Equipment", "Personal Dose Monitoring", "Radiation Protection", "Gamma Spectroscopy", "Detector Calibration"]
     },
     {
       "name": "Veneto Institute of Oncology",
@@ -89,8 +89,8 @@
       "institution": "University of Trieste",
       "location": "Trieste, Italy",
       "url": "https://portale.units.it/en",
-      "area": "Applied Data Science and Artificial Intelligence",
-      "studyType": "PhD",
+      "area": "Protein Language Models: Interpretability and Applications",
+      "studyType": "PhD in Applied Data Science and Artificial Intelligence",
       "startDate": "2022-11-01",
       "endDate": "2026-01-28",
       "score": "cum laude",
