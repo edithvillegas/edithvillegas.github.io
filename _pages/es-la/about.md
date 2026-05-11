@@ -26,7 +26,7 @@ latest_posts:
 
 Soy investigadora postdoctoral en el Centro Internacional de Física Teórica, donde trabajo en aplicaciones de inteligencia artificial en ciencias de la vida. 
 Obtuve mi doctorado en Ciencia de Datos e Inteligencia Artificial Aplicada por la Universidad de Trieste, 
-estudiando la interpretabilidad y aplicacioness de los Modelos de Lenguaje (language models) para Proteínas. 
+estudiando la interpretabilidad y aplicaciones de los Modelos de Lenguaje (language models) para Proteínas. 
 También he trabajado con datos clínicos y genómicos de pacientes con cáncer.
 Anteriormente, completé una maestría en Física Médica, incluyendo una residencia clínica de un año en Radioterapia, 
 y trabajé extensamente en protección radiológica. 
