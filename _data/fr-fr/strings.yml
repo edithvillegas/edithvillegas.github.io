@@ -32,13 +32,13 @@ cv:
   area: région
   awarder: récipient(e)
   awards: prixs
-  basics: informations générales
+  basics: Informations générales
   certificates: certificats
   city: ville
   countryCode: paysCode
   courses: cours
   date: date
-  education: éducation
+  education: Éducation
   email: email
   endDate: date de fin
   fluency: maîtrise
@@ -50,7 +50,7 @@ cv:
   keywords: mots-clés
   label: poste
   language: langue
-  languages: langues
+  languages: Langues
   level: niveau
   location: emplacement
   name: nom
@@ -69,7 +69,7 @@ cv:
   region: région
   releaseDate: date de publication
   score: score
-  skills: compétences
+  skills: Compétences
   startDate: date de début
   studyType: "domaine d'études"
   summary: résumé
@@ -77,8 +77,8 @@ cv:
   title: titre
   url: site web
   username: nom d'utilisateur
-  volunteer: bénévolat
-  work: expérience professionnelle
+  volunteer: Bénévolat
+  work: Expérience professionnelle
 footer:
   copyright: ""
   last_updated: "Dernière mise à jour le "
