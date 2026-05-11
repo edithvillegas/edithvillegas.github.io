@@ -14,8 +14,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-intro",
-    title: "Intro",
+    id: "nav-about",
+    title: "about",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
@@ -506,6 +506,13 @@ ninja.data = [{
           section: 'Languages',
           handler: () => {
             window.location.href = "/fr-ca" + updatedUrl;
+          },
+        },{
+          id: 'lang-es-la',
+          title: 'es-la',
+          section: 'Languages',
+          handler: () => {
+            window.location.href = "/es-la" + updatedUrl;
           },
         },{
       id: 'light-theme',
