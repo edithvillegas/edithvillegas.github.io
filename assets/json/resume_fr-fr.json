@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "Edith Natalia Villegas Garcia",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://edithvillegas.github.io/",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Trieste",
+      "countryCode": "IT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Edith Villegas",
+        "url": "https://www.linkedin.com/in/edithvillegas/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Centre international de physique théorique - UNESCO",
+      "location": "Trieste, Italie",
+      "position": "Chercheuse postdoctorale",
+      "url": "https://www.ictp.it/member/edith-natalia-villegas-garcia",
+      "startDate": "2026-02-01",
+      "endDate": "2026-12-31",
+      "summary": "Chercheuse dans la section de physique de la matière condensée et physique statistique.",
+      "highlights": ["Intersection entre l’intelligence artificielle et la physico-chimie."]
+    },
+    {
+      "name": "AREA Science Park",
+      "location": "Trieste, Italie",
+      "position": "Chercheuse",
+      "url": "https://www.areasciencepark.it/",
+      "startDate": "2021-07-01",
+      "endDate": "2025-12-31",
+      "summary": "Chercheuse au laboratoire d’ingénierie des données.",
+      "highlights": ["Modèles de langage protéique", "Stratification du risque clinique", "Gestion des données"]
+    },
+    {
+      "name": "University of Trieste",
+      "location": "Trieste, Italie",
+      "position": "Assistante d’enseignement",
+      "url": "https://portale.units.it/en",
+      "startDate": "2024-10-01",
+      "endDate": "2024-12-31",
+      "summary": "Assistante d’enseignement pour le cours de MLOps (machine learning operations) dans le master de science des données.",
+      "highlights": ["Enseignement"]
+    },
+    {
+      "name": "Université nationale autonome du Nicaragua",
+      "location": "Managua, Nicaragua",
+      "position": "Spécialiste de laboratoire",
+      "url": "https://www.unan.edu.ni/",
+      "startDate": "2015-03-01",
+      "endDate": "2021-07-01",
+      "summary": "Laboratoire de physique des rayonnements et métrologie",
+      "highlights": ["Contrôle qualité des équipements d’imagerie médicale", "Surveillance dosimétrique individuelle", "Radioprotection", "Spectroscopie gamma", "Calibration des détecteurs"]
+    },
+    {
+      "name": "Institut oncologique de Vénétie",
+      "location": "Padoue, Italie",
+      "position": "Résidente en physique médicale",
+      "url": "https://www.ioveneto.it/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-30",
+      "summary": "Résidente en radiothérapie au département de physique médicale.",
+      "highlights": ["Radiothérapie"]
+    },
+    {
+      "name": "CERN",
+      "location": "Genève, Suisse",
+      "position": "Stagiaire d’été",
+      "url": "https://home.cern/",
+      "startDate": "2017-07-01",
+      "endDate": "2017-08-30",
+      "summary": "Stagiaire dans le groupe CMS - Open Data",
+      "highlights": ["Assistante d’enseignement pour le programme destiné aux enseignants du secondaire"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Université de Trieste",
+      "location": "Trieste, Italie",
+      "url": "https://portale.units.it/en",
+      "area": "Modèles de langage protéique : interprétabilité et applications",
+      "studyType": "Doctorat en science des données et intelligence artificielle appliquée",
+      "startDate": "2022-11-01",
+      "endDate": "2026-01-28",
+      "score": "cum laude",
+      "courses": ["Apprentissage automatique non supervisé", "Réseaux neuronaux", "Bioinformatique"]
+    },
+    {
+      "institution": "Université de Trieste & Centre international de physique théorique",
+      "location": "Trieste, Italie",
+      "url": "https://portale.units.it/en",
+      "area": "Étude dosimétrique de la dose fœtale pendant la radiothérapie externe à l’aide d’OSLD",
+      "studyType": "Master spécialisé en physique médicale",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-30",
+      "score": "110/110 cum laude",
+      "courses": ["Radiothérapie", "Imagerie diagnostique", "Médecine nucléaire"]
+    },
+    {
+      "institution": "Université de Franche-Comté",
+      "location": "Besançon, France",
+      "url": "https://www.ubfc.fr/",
+      "area": " ",
+      "studyType": "Physique Numérique, cours de master",
+      "startDate": "2018-10-01",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": ["Physique quantique", "Physique statistique", "Physique des matériaux", "Outils numériques", "Traitement du signal et statistiques"]
+    },
+    {
+      "institution": "Université Nationale Autonome du Nicaragua",
+      "location": "Managua, Nicaragua",
+      "url": "https://www.unan.edu.ni/",
+      "area": "Estimation de la dose individuelle dans des champs mixtes de rayonnement gamma-neutron",
+      "studyType": "Licence en physique avec spécialisation en physique médicale",
+      "startDate": "2012-03-01",
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": ["Mécanique quantique", "Physique des rayonnements", "Radiobiologie"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICTP - Physique sans frontières",
+      "location": "Trieste, Italie",
+      "position": "Organisatrice d’événements",
+      "url": "https://indico.ictp.it/event/11227",
+      "startDate": "2025-11-01",
+      "endDate": "2025-12-01",
+      "summary": "Organisation d’écoles afin de renforcer la science dans les pays en développement.",
+      "highlights": ["Coorganisatrice de la première école guatémaltèque de biophysique - 2025"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programmation",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Bash",
+        "R"
+      ]
+    },
+    {
+      "name": "Machine Learning & IA",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Apprentissage non supervisé",
+        "Modèles de langage",
+        "Réseaux neuronaux",
+        "Stratification du risque"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Courant",
+      "icon": ""
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Langue maternelle",
+      "icon": ""
+    },
+    {
+      "language": "Français",
+      "fluency": "Courant",
+      "icon": ""
+    },
+    {
+      "language": "Italien",
+      "fluency": "Courant",
+      "icon": ""
+    }
+  ]
+}
