@@ -20,8 +20,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/fr-fr/";
     },
-  },{id: "nav-publicaciones",
-          title: "Publicaciones",
+  },{id: "nav-publications",
+          title: "Publications",
           description: "Publications scientifiques dans leur langue originale.",
           section: "menu de navigation",
           handler: () => {
