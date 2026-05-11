@@ -80,7 +80,7 @@ cv:
   volunteer: bénévolat
   work: expérience professionnelle
 footer:
-  copyright: "Droits d'auteur"
+  copyright: ""
   last_updated: "Dernière mise à jour le "
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> avec le thème <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
