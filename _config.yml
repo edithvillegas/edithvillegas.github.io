@@ -368,7 +368,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "es-la", "fr-fr"]
+languages: ["en-us", "es-la", "fr-fr", "it-it"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
@@ -666,6 +666,8 @@ jekyll_get_json:
     json: assets/json/resume_es-la.json # it can also be an url
   - data: resume_fr-fr
     json: assets/json/resume_fr-fr.json # it can also be an url
+  - data: resume_it-it
+    json: assets/json/resume_it-it.json # it can also be an url
     
 jsonresume:
   - basics
