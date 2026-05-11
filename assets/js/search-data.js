@@ -477,7 +477,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-7338-2068# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0000-0002-7338-2068", "_blank");
         },
       },{
         id: 'social-scholar',
