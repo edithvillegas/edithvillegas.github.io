@@ -494,20 +494,6 @@ ninja.data = [{
           window.open("https://www.ictp.it/member/edith-natalia-villegas-garcia", "_blank");
         },
       },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/pt-br" + updatedUrl;
-          },
-        },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
-          },
-        },{
           id: 'lang-es-la',
           title: 'es-la',
           section: 'Languages',

@@ -501,20 +501,6 @@ ninja.data = [{
             window.location.href = "" + updatedUrl;
           },
         },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
-          section: '',
-          handler: () => {
-            window.location.href = "/pt-br" + updatedUrl;
-          },
-        },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
-          section: '',
-          handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
-          },
-        },{
       id: 'light-theme',
       title: '',
       description: '',
