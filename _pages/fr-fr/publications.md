@@ -2,7 +2,7 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: Publicaciones
+title: Publications
 description: Publications scientifiques dans leur langue originale.
 nav: true
 nav_order: 1
