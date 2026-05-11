@@ -41,13 +41,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fr-ca/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "menu de navigation",
-          handler: () => {
-            window.location.href = "/fr-ca/teaching/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
