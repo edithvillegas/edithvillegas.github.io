@@ -27,9 +27,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es-la/blog/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
+        },{id: "nav-publicaciones",
+          title: "Publicaciones",
+          description: "Publicaciones cientificas en su idioma original.",
           section: "",
           handler: () => {
             window.location.href = "/es-la/publications/";
