@@ -5,7 +5,7 @@ permalink: /publications/
 title: Publicaciones
 description: Publicaciones cientificas en su idioma original. 
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
