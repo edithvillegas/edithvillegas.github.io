@@ -20,14 +20,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/es-la/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "a simple whitespace theme for academics",
-          section: "Menú de navegación",
-          handler: () => {
-            window.location.href = "/es-la/blog/";
-          },
-        },{id: "nav-publicaciones",
+  },{id: "nav-publicaciones",
           title: "Publicaciones",
           description: "Publicaciones cientificas en su idioma original.",
           section: "Menú de navegación",
