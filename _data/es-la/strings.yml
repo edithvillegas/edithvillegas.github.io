@@ -1,0 +1,163 @@
+archive:
+  prefix: un archivo de
+  category_suffix: en esta categoría
+  tag_suffix: con esta etiqueta
+  year_suffix: de este año
+bibliography:
+  abstract: Resumen
+  awarded: Premiado
+  blog: Blog
+  book_prefix: En
+  code: Código
+  last_author_prefix: y
+  poster: Póster
+  slides: Diapositivas
+  supp: Supl
+  video: Video
+  website: Sitio web
+blog:
+  navigation_title: blog
+categories:
+  fun: diversión
+  work: trabajo
+citation:
+  bibtex: "o como una entrada BibTeX:"
+  introduction: "Si encontraste esto útil, por favor cítalo como:"
+collections:
+  books: libros
+  posts: publicaciones
+contact_note: "Puedes contactarme en: evillega [at] ictp [dot] it."
+cv:
+  address: Dirección
+  area: Área
+  awarder: Otorgante
+  awards: Premios
+  basics: Información general
+  certificates: Certificados
+  city: Ciudad
+  countryCode: Código de país
+  courses: Cursos
+  date: Fecha
+  education: Educación
+  email: Correo electrónico
+  endDate: Fecha de finalización
+  fluency: Fluidez
+  highlights: Destacados
+  image: Imagen
+  institution: Institución
+  interests: Intereses
+  issuer: Emisor
+  keywords: Palabras clave
+  label: Etiqueta
+  language: Idioma
+  languages: Idiomas
+  level: Nivel
+  location: Ubicación
+  name: Nombre
+  network: Red
+  organization: Organización
+  phone: Teléfono
+  position: Cargo
+  postalCode: Código postal
+  present: Presente
+  profiles: Perfiles
+  projects: Proyectos
+  publications: Publicaciones
+  publisher: Editorial
+  reference: Referencia
+  references: Referencias
+  region: Región
+  releaseDate: Fecha de publicación
+  score: Puntuación
+  skills: Habilidades
+  startDate: Fecha de inicio
+  studyType: Tipo de estudio
+  summary: Resumen
+  table_of_contents: Tabla de contenidos
+  title: Título
+  url: Url
+  username: Nombre de usuario
+  volunteer: Voluntariado
+  work: Trabajo
+footer:
+  copyright: Copyright
+  last_updated: "Última actualización:"
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  Funciona con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> usando el tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  Alojado en <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: últimas publicaciones
+months:
+  long:
+    january: Enero
+    february: Febrero
+    march: Marzo
+    april: Abril
+    may: Mayo
+    june: Junio
+    july: Julio
+    august: Agosto
+    september: Septiembre
+    october: Octubre
+    november: Noviembre
+    december: Diciembre
+  short:
+    january: Ene
+    february: Feb
+    march: Mar
+    april: Abr
+    may: May
+    june: Jun
+    july: Jul
+    august: Ago
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dic
+news: noticias
+newsletter:
+  back: Volver
+  error: "¡Ups! Algo salió mal, por favor inténtalo de nuevo."
+  subscribe: suscribirse
+  subscribed: "Te has suscrito exitosamente al boletín."
+  subscribe_to_receive: "Suscríbete para recibir notificaciones de futuros artículos:"
+  too_many_signups: "Demasiadas suscripciones, por favor inténtalo de nuevo en un momento"
+  wait: "Por favor espera..."
+no_news: No hay noticias hasta ahora...
+no_posts: "No hay publicaciones hasta ahora..."
+pagination:
+  page: página
+post:
+  created_in: Creado en
+  created_by: por
+  last_updated: última actualización en
+references: Referencias
+related_posts:
+  description: "Aquí tienes algunos artículos más que podrían interesarte:"
+  title: ¿Disfrutaste este artículo?
+search:
+  dark_theme:
+    description: Cambiar el tema del sitio a oscuro
+    title: Cambiar tema a oscuro
+  dropdown: Desplegable
+  email: Enviar un correo electrónico
+  footer:
+    close: para cerrar
+    navigate: para navegar
+    parent: mover al elemento padre
+    select: para seleccionar
+  languages: Idiomas
+  light_theme:
+    description: Cambiar el tema del sitio a claro
+    title: Cambiar tema a claro
+  navigation: Menú de navegación
+  news: Noticias
+  placeholder: Escribe para comenzar a buscar
+  posts: Publicaciones
+  projects: Proyectos
+  socials: Redes sociales
+  system_theme:
+    description: Cambiar el tema del sitio al predeterminado del sistema
+    title: Usar el tema predeterminado del sistema
+  theme: Tema
+selected_publications: publicaciones seleccionadas
+site_description: Un tema simple y minimalista para académicos. Basado en el diseño de [*folio](https://github.com/bogoli/-folio).
