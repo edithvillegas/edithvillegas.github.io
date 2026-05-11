@@ -14,62 +14,34 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-sobre",
-    title: "sobre",
+    id: "nav-about",
+    title: "about",
     section: "Menu de navegação",
     handler: () => {
       window.location.href = "/pt-br/";
     },
   },{id: "nav-blog",
           title: "blog",
-          description: "um tema simples para acadêmicos",
+          description: "a simple whitespace theme for academics",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/pt-br/blog/";
           },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/pt-br/publications/";
           },
-        },{id: "nav-projetos",
-          title: "projetos",
-          description: "Uma crescente coleção de seus projetos interessantes.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/pt-br/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
+          description: "",
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/pt-br/cv/";
           },
-        },{id: "nav-ensino",
-          title: "ensino",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/pt-br/teaching/";
-          },
-        },{id: "dropdown-estante-de-livros",
-              title: "estante de livros",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/pt-br/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Outras opções",
-              handler: () => {
-                window.location.href = "/pt-br/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
