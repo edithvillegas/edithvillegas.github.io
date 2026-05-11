@@ -50,8 +50,8 @@
       "url": "https://portale.units.it/en",
       "startDate": "2024-10-01",
       "endDate": "2024-12-31",
-      "summary": "Asistente de docencia para el curso de Operaciones de Aprendizaje Automático en la Maestría en Ciencia de Datos.",
-      "highlights": ["Impartición de clases, preparación de ejercicios"]
+      "summary": "Asistente de docencia para el curso de MLOps (Machine Learning Operations) en la Maestría en Ciencia de Datos.",
+      "highlights": ["Actividad docente"]
     },
     {
       "name": "Universidad Nacional Autónoma de Nicaragua",
@@ -61,16 +61,16 @@
       "startDate": "2015-03-01",
       "endDate": "2021-07-01",
       "summary": "Laboratorio de Física de Radiaciones y Metrología",
-      "highlights": ["Control de Calidad de Equipos de Imagen Médica", "Monitoreo de Dosis Personal", "Protección Radiológica", "Espectroscopía Gamma", "Calibración de Detectores"]
+      "highlights": ["Control de Calidad de Equipos de Diagnóstico Médico", "Monitoreo de Dosis Personal", "Protección Radiológica", "Espectroscopía Gamma", "Calibración de Detectores"]
     },
     {
       "name": "Instituto Oncológico del Véneto",
       "location": "Padua, Italia",
-      "position": "Practicante en Física Médica",
+      "position": "Residente en Física Médica",
       "url": "https://www.ioveneto.it/",
       "startDate": "2020-01-01",
       "endDate": "2021-01-30",
-      "summary": "Practicante en Radioterapia en el Departamento de Física.",
+      "summary": "Residente en Radioterapia en el Departamento de Física.",
       "highlights": ["Radioterapia"]
     },
     {
@@ -90,7 +90,7 @@
       "location": "Trieste, Italia",
       "url": "https://portale.units.it/en",
       "area": "Modelos de Lenguaje de Proteínas: Interpretabilidad y Aplicaciones",
-      "studyType": "Doctorado en Ciencia de Datos Aplicada e Inteligencia Artificial",
+      "studyType": "Doctorado en Ciencia de Datos e Inteligencia Artificial Aplicada",
       "startDate": "2022-11-01",
       "endDate": "2026-01-28",
       "score": "cum laude",
@@ -122,7 +122,7 @@
       "institution": "Universidad Nacional Autónoma de Nicaragua",
       "location": "Managua, Nicaragua",
       "url": "https://www.unan.edu.ni/",
-      "area": "Estimación de Dosis Personal en Campos Mixtos de Radiación Neutrón-Gamma",
+      "area": "Estimación de Dosis Personal en Campos Mixtos de Radiación Gamma-Neutrón",
       "studyType": "Licenciatura en Física con Concentración en Física Médica",
       "startDate": "2012-03-01",
       "endDate": "2017-06-01",
