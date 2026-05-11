@@ -14,21 +14,21 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-info",
+    title: "Info",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
+  },{id: "nav-pubblicazioni",
+          title: "Pubblicazioni",
+          description: "Pubblicazioni scientifiche nella loro lingua originale.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation menu",
           handler: () => {
