@@ -14,21 +14,21 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-info",
-    title: "Info",
+    id: "nav-about",
+    title: "about",
     section: "Navigation menu",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-pubblicazioni",
-          title: "Pubblicazioni",
-          description: "Pubblicazioni scientifiche nella loro lingua originale.",
+  },{id: "nav-publications",
+          title: "publications",
+          description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "CV",
+          title: "cv",
           description: "",
           section: "Navigation menu",
           handler: () => {
@@ -499,6 +499,13 @@ ninja.data = [{
           section: 'Languages',
           handler: () => {
             window.location.href = "/fr-fr" + updatedUrl;
+          },
+        },{
+          id: 'lang-it-it',
+          title: 'it-it',
+          section: 'Languages',
+          handler: () => {
+            window.location.href = "/it-it" + updatedUrl;
           },
         },{
       id: 'light-theme',
