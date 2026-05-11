@@ -494,6 +494,13 @@ ninja.data = [{
             window.location.href = "/es-la" + updatedUrl;
           },
         },{
+          id: 'lang-fr-fr',
+          title: 'fr-fr',
+          section: 'Languages',
+          handler: () => {
+            window.location.href = "/fr-fr" + updatedUrl;
+          },
+        },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',

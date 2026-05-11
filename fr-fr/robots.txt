@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://edithvillegas.github.io/sitemap.xml
