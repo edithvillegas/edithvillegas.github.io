@@ -32,5 +32,5 @@ Anteriormente, completé una maestría en Física Médica, incluyendo una reside
 y trabajé extensamente en protección radiológica. 
 Mi experiencia abarca el aprendizaje automático (machine learning) y la ciencia de datos, con aplicaciones en salud, biología y física médica.
 
-- 📍 <a href='#'>Actualmente </a>: Investigadora Postdoctoral en el ICTP, Trieste.
-- 🔬 <a href='#'> Research Interests </a>: Inteligencia Artificial para Ciencias de la Vida.
+- 📍 <a href='#'> Actualmente </a>: Investigadora Postdoctoral en el ICTP, Trieste.
+- 🔬 <a href='#'> Investigación </a>: Inteligencia Artificial para Ciencias de la Vida.
