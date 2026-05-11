@@ -51,7 +51,7 @@
       "startDate": "2024-10-01",
       "endDate": "2024-12-31",
       "summary": "Assistente alla didattica per il corso di Machine Learning Operations (MLOps) nel master in Data Science.",
-      "highlights": ["Lezioni, preparazione esercizi"]
+      "highlights": ["Lezioni"]
     },
     {
       "name": "Università Nazionale Autonoma del Nicaragua",
@@ -70,13 +70,13 @@
       "url": "https://www.ioveneto.it/",
       "startDate": "2020-01-01",
       "endDate": "2021-01-30",
-      "summary": "Tirocinante in radioterapia presso il dipartimento di fisica.",
+      "summary": "Tirocinante in radioterapia presso il dipartimento di fisica sanitaria.",
       "highlights": ["Radioterapia"]
     },
     {
       "name": "CERN",
       "location": "Ginevra, Svizzera",
-      "position": "Tirocinante estivo",
+      "position": "Tirocinante",
       "url": "https://home.cern/",
       "startDate": "2017-07-01",
       "endDate": "2017-08-30",
@@ -86,7 +86,7 @@
   ],
   "education": [
     {
-      "institution": "Università di Trieste",
+      "institution": "Università degli Studi di Trieste",
       "location": "Trieste, Italia",
       "url": "https://portale.units.it/en",
       "area": "Modelli di linguaggio per proteine: interpretabilità e applicazioni",
@@ -94,10 +94,10 @@
       "startDate": "2022-11-01",
       "endDate": "2026-01-28",
       "score": "cum laude",
-      "courses": ["Apprendimento automatico non supervisionato", "Reti neurali", "Bioinformatica"]
+      "courses": ["Machine learning non supervisionato", "Reti neurali", "Bioinformatica"]
     },
     {
-      "institution": "Università di Trieste & Centro Internazionale di Fisica Teorica",
+      "institution": "Università degli Studi di Trieste & Centro Internazionale di Fisica Teorica",
       "location": "Trieste, Italia",
       "url": "https://portale.units.it/en",
       "area": "Studio dosimetrico della dose fetale durante la radioterapia esterna con OSLD",
