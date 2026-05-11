@@ -34,18 +34,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fr-fr/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "actualités",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "actualités",handler: () => {
-              window.location.href = "/fr-fr/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "actualités",},{
+        },{
         id: 'social-github',
         title: 'GitHub',
         section: 'réseaux sociaux',
