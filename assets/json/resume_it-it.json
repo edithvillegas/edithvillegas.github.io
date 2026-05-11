@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Edith Natalia Villegas Garcia",
+    "label": "",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "https://edithvillegas.github.io/",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Trieste",
+      "countryCode": "IT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Edith Villegas",
+        "url": "https://www.linkedin.com/in/edithvillegas/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Centro Internazionale di Fisica Teorica - UNESCO",
+      "location": "Trieste, Italia",
+      "position": "Ricercatrice post-dottorato",
+      "url": "https://www.ictp.it/member/edith-natalia-villegas-garcia",
+      "startDate": "2026-02-01",
+      "endDate": "2026-12-31",
+      "summary": "Ricercatrice nella sezione di fisica della materia condensata e fisica statistica.",
+      "highlights": ["Intersezione tra intelligenza artificiale e fisico-chimica."]
+    },
+    {
+      "name": "AREA Science Park",
+      "location": "Trieste, Italia",
+      "position": "Ricercatrice",
+      "url": "https://www.areasciencepark.it/",
+      "startDate": "2021-07-01",
+      "endDate": "2025-12-31",
+      "summary": "Ricercatrice nel laboratorio di data engineering.",
+      "highlights": ["Modelli di linguaggio per proteine", "Stratificazione del rischio clinico", "Gestione dei dati"]
+    },
+    {
+      "name": "Università di Trieste",
+      "location": "Trieste, Italia",
+      "position": "Assistente alla didattica",
+      "url": "https://portale.units.it/en",
+      "startDate": "2024-10-01",
+      "endDate": "2024-12-31",
+      "summary": "Assistente alla didattica per il corso di Machine Learning Operations (MLOps) nel master in Data Science.",
+      "highlights": ["Lezioni, preparazione esercizi"]
+    },
+    {
+      "name": "Università Nazionale Autonoma del Nicaragua",
+      "location": "Managua, Nicaragua",
+      "position": "Specialista di laboratorio",
+      "url": "https://www.unan.edu.ni/",
+      "startDate": "2015-03-01",
+      "endDate": "2021-07-01",
+      "summary": "Laboratorio di fisica delle radiazioni e metrologia",
+      "highlights": ["Controllo qualità delle apparecchiature di imaging medico", "Monitoraggio della dose personale", "Radioprotezione", "Spettroscopia gamma", "Calibrazione dei rivelatori"]
+    },
+    {
+      "name": "Istituto Oncologico del Veneto",
+      "location": "Padova, Italia",
+      "position": "Tirocinante in fisica medica",
+      "url": "https://www.ioveneto.it/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-30",
+      "summary": "Tirocinante in radioterapia presso il dipartimento di fisica.",
+      "highlights": ["Radioterapia"]
+    },
+    {
+      "name": "CERN",
+      "location": "Ginevra, Svizzera",
+      "position": "Tirocinante estivo",
+      "url": "https://home.cern/",
+      "startDate": "2017-07-01",
+      "endDate": "2017-08-30",
+      "summary": "Tirocinante nel gruppo Open Data per l’esperimento CMS.",
+      "highlights": ["Assistente alla didattica per il programma per insegnanti delle scuole superiori"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università di Trieste",
+      "location": "Trieste, Italia",
+      "url": "https://portale.units.it/en",
+      "area": "Modelli di linguaggio per proteine: interpretabilità e applicazioni",
+      "studyType": "Dottorato in scienza dei dati e intelligenza artificiale applicata",
+      "startDate": "2022-11-01",
+      "endDate": "2026-01-28",
+      "score": "cum laude",
+      "courses": ["Apprendimento automatico non supervisionato", "Reti neurali", "Bioinformatica"]
+    },
+    {
+      "institution": "Università di Trieste & Centro Internazionale di Fisica Teorica",
+      "location": "Trieste, Italia",
+      "url": "https://portale.units.it/en",
+      "area": "Studio dosimetrico della dose fetale durante la radioterapia esterna con OSLD",
+      "studyType": "Master in Fisica Medica",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-30",
+      "score": "110/110 cum laude",
+      "courses": ["Radioterapia", "Imaging diagnostico", "Medicina nucleare"]
+    },
+    {
+      "institution": "Università di Franche-Comté",
+      "location": "Besançon, Francia",
+      "url": "https://www.ubfc.fr/en/",
+      "area": " ",
+      "studyType": "Fisica computazionale, corsi di master",
+      "startDate": "2018-10-01",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": ["Fisica quantistica", "Fisica statistica", "Fisica dei materiali", "Strumenti numerici", "Elaborazione del segnale e statistica"]
+    },
+    {
+      "institution": "Università Nazionale Autonoma del Nicaragua",
+      "location": "Managua, Nicaragua",
+      "url": "https://www.unan.edu.ni/",
+      "area": "Stima della dose personale in campi misti di radiazione gamma-neutroni",
+      "studyType": "Laurea in Fisica con specializzazione in fisica medica",
+      "startDate": "2012-03-01",
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": ["Meccanica quantistica", "Fisica delle radiazioni", "Radiobiologia"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICTP - Fisica senza frontiere",
+      "location": "Trieste, Italia",
+      "position": "Organizzatrice di eventi",
+      "url": "https://indico.ictp.it/event/11227",
+      "startDate": "2025-11-01",
+      "endDate": "2025-12-01",
+      "summary": "Organizzazione di scuole per rafforzare la scienza nei paesi in via di sviluppo.",
+      "highlights": ["Co-organizzatrice della prima scuola guatemalteca di biofisica - 2025"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programmazione",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "Bash", "R"]
+    },
+    {
+      "name": "Machine Learning e IA",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Apprendimento non supervisionato", "Modelli di linguaggio", "Reti neurali", "Stratificazione del rischio"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglese",
+      "fluency": "Fluente",
+      "icon": ""
+    },
+    {
+      "language": "Spagnolo",
+      "fluency": "Madrelingua",
+      "icon": ""
+    },
+    {
+      "language": "Francese",
+      "fluency": "Fluente",
+      "icon": ""
+    },
+    {
+      "language": "Italiano",
+      "fluency": "Fluente",
+      "icon": ""
+    }
+  ]
+}

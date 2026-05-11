@@ -1,0 +1,184 @@
+archive:
+  prefix: un archivio di
+  category_suffix: in questa categoria
+  tag_suffix: con questo tag
+  year_suffix: di questo anno
+
+bibliography:
+  abstract: Riassunto
+  awarded: Premiato
+  blog: Blog
+  book_prefix: In
+  code: Codice
+  last_author_prefix: e
+  poster: Poster
+  slides: Slide
+  supp: Supplemento
+  video: Video
+  website: Sito web
+
+blog:
+  navigation_title: blog
+
+categories:
+  fun: divertimento
+  work: lavoro
+
+citation:
+  bibtex: "oppure come BibTeX:"
+  introduction: "Se hai trovato utile questo contenuto, citarlo così:"
+
+collections:
+  books: libri
+  posts: articoli
+
+contact_note: "Puoi contattarmi a: evillega [chiocciola] ictp [punto] it."
+
+cv:
+  address: Indirizzo
+  area: Area
+  awarder: Ente premiatore
+  awards: Premi
+  basics: Informazioni generali
+  certificates: Certificati
+  city: Città
+  countryCode: Codice paese
+  courses: Corsi
+  date: Data
+  education: Formazione
+  email: Email
+  endDate: Data di fine
+  fluency: Fluidità
+  highlights: Punti salienti
+  image: Immagine
+  institution: Istituzione
+  interests: Interessi
+  issuer: Ente rilasciante
+  keywords: Parole chiave
+  label: Etichetta
+  language: Lingua
+  languages: Lingue
+  level: Livello
+  location: Posizione
+  name: Nome
+  network: Rete
+  organization: Organizzazione
+  phone: Telefono
+  position: Posizione
+  postalCode: Codice postale
+  present: Presente
+  profiles: Profili
+  projects: Progetti
+  publications: Pubblicazioni
+  publisher: Editore
+  reference: Riferimento
+  references: Riferimenti
+  region: Regione
+  releaseDate: Data di pubblicazione
+  score: Punteggio
+  skills: Competenze
+  startDate: Data di inizio
+  studyType: Tipo di studi
+  summary: Riassunto
+  table_of_contents: Indice
+  title: Titolo
+  url: URL
+  username: Nome utente
+  volunteer: Volontariato
+  work: Esperienza lavorativa
+
+footer:
+  copyright: Copyright
+  last_updated: "Ultimo aggiornamento:"
+
+footer_text: >
+  Realizzato con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> e il tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  Ospitato da <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+latest_posts: ultimi articoli
+
+months:
+  long:
+    january: Gennaio
+    february: Febbraio
+    march: Marzo
+    april: Aprile
+    may: Maggio
+    june: Giugno
+    july: Luglio
+    august: Agosto
+    september: Settembre
+    october: Ottobre
+    november: Novembre
+    december: Dicembre
+  short:
+    january: Gen
+    february: Feb
+    march: Mar
+    april: Apr
+    may: Mag
+    june: Giu
+    july: Lug
+    august: Ago
+    september: Set
+    october: Ott
+    november: Nov
+    december: Dic
+
+news: notizie
+
+newsletter:
+  back: Indietro
+  error: "Oops! Qualcosa è andato storto, riprova."
+  subscribe: iscriversi
+  subscribed: "Ti sei iscritto con successo alla newsletter."
+  subscribe_to_receive: "Iscriviti per ricevere notifiche sui nuovi articoli:"
+  too_many_signups: "Troppi tentativi, riprova più tardi"
+  wait: "Attendere..."
+
+no_news: Nessuna notizia per ora...
+no_posts: "Nessun articolo per ora..."
+
+pagination:
+  page: pagina
+
+post:
+  created_in: Creato il
+  created_by: da
+  last_updated: ultimo aggiornamento il
+
+references: Riferimenti
+
+related_posts:
+  description: "Ecco altri articoli che potrebbero interessarti:"
+  title: Ti è piaciuto questo articolo?
+
+search:
+  dark_theme:
+    description: Cambia il tema del sito in scuro
+    title: Attiva tema scuro
+  dropdown: Menu a discesa
+  email: Invia email
+  footer:
+    close: per chiudere
+    navigate: per navigare
+    parent: vai al livello superiore
+    select: per selezionare
+  languages: Lingue
+  light_theme:
+    description: Cambia il tema del sito in chiaro
+    title: Attiva tema chiaro
+  navigation: Menu di navigazione
+  news: Notizie
+  placeholder: Scrivi per iniziare la ricerca
+  posts: Articoli
+  projects: Progetti
+  socials: Social
+  system_theme:
+    description: Usa il tema predefinito del sistema
+    title: Usa tema di sistema
+  theme: Tema
+
+selected_publications: pubblicazioni selezionate
+
+site_description: Un tema semplice e minimale per accademici. Basato sul design [*folio](https://github.com/bogoli/-folio).
